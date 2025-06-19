@@ -1,0 +1,13 @@
+# Bỏ qua thư mục môi trường ảo phổ biến
+.venv/
+venv/
+env/
+ENV/
+
+# Bỏ qua file dotenv
+.env
+.env.*
+
+# Bỏ qua cache của Python
+__pycache__/
+*.py[cod]
